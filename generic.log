@@ -1,0 +1,4 @@
+conf/job.properties: line 30: user.name=hdfs: command not found
+conf/job.properties: line 31: oozie.libpath=/user/hyperlane/share/oozie/datasets/v1/lib/,/user/hyperlane/engines/generic-import/0.1.1/lib: No such file or directory
+conf/job.properties: line 32: oozie.wf.application.path=/user/hyperlane/engines/generic-import/0.1.1/workflow.xml: No such file or directory
+cat: job.proparties: No such file or directory
